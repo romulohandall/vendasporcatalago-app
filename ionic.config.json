@@ -1,0 +1,7 @@
+{
+  "name": "vendasporcatalogo-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
